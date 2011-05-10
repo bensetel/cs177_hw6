@@ -1,5 +1,0 @@
-function foo = countTriple(nums)
-  counter = 1;
-  len = length(nums);
-  while(counter <= len)
-    
